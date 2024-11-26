@@ -1,6 +1,6 @@
 # Hrishikesh Shirodkar - Data Engineer
 
-Welcome to my portfolio! I am a passionate Data Engineer with experience in building scalable data pipelines, data modeling, and delivering actionable insights through ETL workflows and visualizations.
+Welcome to my portfolio! I am a Data Engineer with expertise in building data pipelines, transforming large datasets, and creating impactful visualizations. With a strong foundation in Python, SQL, and Power BI, I am passionate about delivering efficient and scalable data solutions.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my portfolio! I am a passionate Data Engineer with experience in buil
 - **PG-Diploma in Big Data Analytics**  
   CDAC ACTS Pune  
 
-- **Bachelor of Engineering** (Branch Name - e.g., Computer Science / Mechanical)  
+- **Bachelor of Engineering** (Branch: [Specify Branch, e.g., Mechanical Engineering])  
   [Your University Name]
 
 ---
@@ -21,16 +21,17 @@ Welcome to my portfolio! I am a passionate Data Engineer with experience in buil
 *(Date - Present)*  
 
 - **Key Responsibilities:**
-  - Designed and optimized SQL queries for data analysis and reporting.
-  - Developed and maintained ETL pipelines to process large datasets efficiently.
-  - Built interactive Power BI dashboards for stakeholders.  
+  - Designed and optimized complex SQL queries to drive data insights for clients.
+  - Built and maintained ETL pipelines to process and transform large-scale data efficiently.
+  - Developed Power BI dashboards to visualize business-critical KPIs for stakeholders.
 
 ### **Business Analyst**  
-**Inteliment Technologies** *(Automobile Client)*  
+**Inteliment Technologies (Automobile Client)**  
 *(Date - Date)*  
 
-- Conducted data analysis using SQL and Python to deliver insights.
-- Automated workflows and enhanced reporting capabilities with Power BI.
+- Conducted data analysis using SQL and Python to provide actionable insights.
+- Automated reporting workflows with Power BI for enhanced decision-making.
+- Collaborated with cross-functional teams to address client requirements effectively.
 
 ---
 
@@ -38,8 +39,8 @@ Welcome to my portfolio! I am a passionate Data Engineer with experience in buil
 
 - **Programming:** Python, SQL, PySpark  
 - **Data Visualization:** Power BI, Tableau  
-- **Cloud:** Microsoft Azure, AWS (Basics)  
-- **ETL Tools:** Snowflake, Looker (Basic Knowledge)  
+- **Cloud Platforms:** Microsoft Azure, AWS  
+- **ETL Tools:** Snowflake, Looker (Basics)  
 - **Other Tools:** Git, JIRA  
 
 ---
@@ -48,18 +49,23 @@ Welcome to my portfolio! I am a passionate Data Engineer with experience in buil
 
 ### **Recipe Recommender System**
 - **Technologies:** Python, AWS  
-- **Description:** Built a system to recommend recipes based on available ingredients, leveraging machine learning and AWS Lambda for processing.
+- **Description:** Developed a recommender system to suggest recipes based on available ingredients. Leveraged AWS Lambda for processing and ensured high scalability and performance.
 
-### **ETL Pipeline for Sales Analytics**
+### **Sales Analytics Pipeline**
 - **Technologies:** PySpark, SQL, Power BI  
-- **Description:** Designed and implemented an ETL pipeline to ingest, clean, and aggregate sales data, enabling real-time analytics and visualization.
+- **Description:** Designed and implemented an ETL pipeline for processing and analyzing sales data, enabling real-time analytics and insightful Power BI dashboards.
+
+### **Business Reporting Automation**
+- **Technologies:** SQL, Power BI  
+- **Description:** Automated reporting tasks for an automobile client, reducing manual effort and enabling data-driven decision-making.
 
 ---
 
 ## 🌟 Achievements and Certifications
 
-- [Certification Name] - [Issuing Organization]  
-- [Achievement/ Award Name]  
+- **Azure Fundamentals Certification** - Microsoft (Planned/Obtained)
+- **Power BI for Business Analytics** - [Platform, e.g., Udemy, Coursera]  
+- Recognized for delivering high-impact solutions at Inteliment Technologies.  
 
 ---
 
