@@ -9,8 +9,8 @@ Welcome to my portfolio! I am a Data Engineer with expertise in building data pi
 - **PG-Diploma in Big Data Analytics**  
   CDAC ACTS Pune  
 
-- **Bachelor of Engineering** (Branch: [Specify Branch, e.g., Mechanical Engineering])  
-  [Your University Name]
+- **Bachelor of Engineering** (Electronics)  
+  Goa University - Padre Conceicao College of Engineering  
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my portfolio! I am a Data Engineer with expertise in building data pi
 
 ### **Associate Software Engineer**  
 **Inteliment Technologies**  
-*(Date - Present)*  
+*(January 2024 - Present)*  
 
 - **Key Responsibilities:**
   - Designed and optimized complex SQL queries to drive data insights for clients.
@@ -71,6 +71,6 @@ Welcome to my portfolio! I am a Data Engineer with expertise in building data pi
 
 ## 📫 Let's Connect!
 
-- **Email:** hrishikesh.s@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
+- **Email:** hrishikeshshirodkar421@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/)  
+- **GitHub:** [Your GitHub Profile](https://github.com/hrishikesh421)  
