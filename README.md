@@ -1,6 +1,7 @@
-# Hrishikesh Shirodkar - Data Engineer
+# Hrishikesh Shirodkar 
+# Data Engineer
 
-Welcome to my portfolio! I am a Data Engineer with expertise in building data pipelines, transforming large datasets, and creating impactful visualizations. With a strong foundation in Python, SQL, and Power BI, I am passionate about delivering efficient and scalable data solutions.
+I'm a passionate Data Engineer specializing in building efficient and scalable data pipelines, transforming large datasets, and creating impactful visualizations. With a robust foundation in Python, SQL, and Power BI, I thrive on turning raw data into actionable insights.
 
 ---
 
@@ -25,23 +26,15 @@ Welcome to my portfolio! I am a Data Engineer with expertise in building data pi
   - Built and maintained ETL pipelines to process and transform large-scale data efficiently.
   - Developed Power BI dashboards to visualize business-critical KPIs for stakeholders.
 
-### **Business Analyst**  
-**Inteliment Technologies (Automobile Client)**  
-*(Date - Date)*  
 
-- Conducted data analysis using SQL and Python to provide actionable insights.
-- Automated reporting workflows with Power BI for enhanced decision-making.
-- Collaborated with cross-functional teams to address client requirements effectively.
-
----
 
 ## 💻 Technical Skills
 
-- **Programming:** Python, SQL, PySpark  
-- **Data Visualization:** Power BI, Tableau  
+- **Programming:** Python, SQL,   
+- **Data Visualization:** Power BI,
 - **Cloud Platforms:** Microsoft Azure, AWS  
-- **ETL Tools:** Snowflake, Looker (Basics)  
-- **Other Tools:** Git, JIRA  
+- **ETL Tools:** PySpark
+- **Other Tools:** Git 
 
 ---
 
@@ -72,5 +65,5 @@ Welcome to my portfolio! I am a Data Engineer with expertise in building data pi
 ## 📫 Let's Connect!
 
 - **Email:** hrishikeshshirodkar421@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/)  
-- **GitHub:** [Your GitHub Profile](https://github.com/hrishikesh421)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/)  
+- **GitHub:** [GitHub](https://github.com/hrishikesh421)  
