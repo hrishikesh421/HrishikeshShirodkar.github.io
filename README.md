@@ -30,11 +30,11 @@ I'm a passionate Data Engineer specializing in building efficient and scalable d
 
 ## 💻 Technical Skills
 
-- **Programming:** Python, SQL,   
-- **Data Visualization:** Power BI,
-- **Cloud Platforms:** Microsoft Azure, AWS  
-- **ETL Tools:** PySpark
-- **Other Tools:** Git 
+- **Programming:** Python, SQL.
+- **Data Visualization:** Power BI.
+- **Cloud Platforms:** Microsoft Azure, AWS  .
+- **ETL Tools:** PySpark.
+- **Other Tools:** Git .
 
 ---
 
