@@ -42,22 +42,21 @@ I'm a passionate Data Engineer specializing in building efficient and scalable d
 
 ### **Recipe Recommender System**
 - **Technologies:** Python, AWS  
-- **Description:** Developed a recommender system to suggest recipes based on available ingredients. Leveraged AWS Lambda for processing and ensured high scalability and performance.
+- Developed a recommender system to suggest recipes based on available ingredients. Leveraged AWS Lambda for processing and ensured high scalability and performance.
 
-### **Sales Analytics Pipeline**
-- **Technologies:** PySpark, SQL, Power BI  
-- **Description:** Designed and implemented an ETL pipeline for processing and analyzing sales data, enabling real-time analytics and insightful Power BI dashboards.
+###  **Big Data ETL and Analytics Pipeline Using Azure Synapse and Databricks**
+- **Technologies:** PySpark, Azure Data factory, Azure Synapse Analytics ,DataBricks,Power BI   
+- Built a comprehensive ETL pipeline for big data processing and analytics, leveraging Azure Synapse and Databricks for advanced transformationsand data warehousing. Key contributions included developing a   
+  PySpark-based ETL process, utilizing the Medallion Architecture, and integrating Synapse Analytics with Power BI for KPI visualization.
 
-### **Business Reporting Automation**
-- **Technologies:** SQL, Power BI  
-- **Description:** Automated reporting tasks for an automobile client, reducing manual effort and enabling data-driven decision-making.
-
+###  **Azure-Based Data Engineering Pipeline for Real-Time Data Processing**
+- **Technologies:** PySpark, Azure Data factory,DataBricks,Power BI   
+- Designed and implemented a scalable Azure data pipeline to ingest, transform, and analyze large datasets using the Medallion Architecture (Bronze, Silver, and Gold layers). Improved pipeline efficiency by 25% 
+  through dynamic workflows and real-time ingestion using APIs..
 ---
 
 ## 🌟 Achievements and Certifications
 
-- **Azure Fundamentals Certification** - Microsoft (Planned/Obtained)
-- **Power BI for Business Analytics** - [Platform, e.g., Udemy, Coursera]  
 - Recognized for delivering high-impact solutions at Inteliment Technologies.  
 
 ---
