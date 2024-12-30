@@ -1,7 +1,7 @@
 # Hrishikesh Shirodkar 
 # Data Engineer
 
-I'm a passionate Data Engineer specializing in building efficient and scalable data pipelines, transforming large datasets, and creating impactful visualizations. With a robust foundation in Python, SQL, and Power BI, I thrive on turning raw data into actionable insights.
+I'm a passionate Data Engineer specializing in building efficient and scalable data pipelines, transforming large datasets, and creating impactful visualizations. With a robust foundation in Python, SQL,Azure,PySpark, and Power BI, I thrive on turning raw data into actionable insights.
 
 ---
 
